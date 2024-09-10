@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center"> 💫 Hi , I'm Vansh Thakkar</h1>
 🔭 I’m currently working on Symmetric Cryptography Algorithms<br>
 🌱 I’m currently learning Data Structures and Algorithms, Cyber Security <br>
 💬 Ask me about c, c++, python, Java, Javascript<br>
