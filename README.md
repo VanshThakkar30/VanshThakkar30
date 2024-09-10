@@ -3,7 +3,7 @@
 🌱 I’m currently learning Data Structures and Algorithms, Cyber Security <br>
 💬 Ask me about c, c++, python, Java, Javascript<br>
 📫 Know about my experience <br>
-📄 How to reach me vanshthakkar.official@gmail.com
+📄 How to reach me **vanshthakkar.official@gmail.com**
 
 
 ## 🌐 Socials:
